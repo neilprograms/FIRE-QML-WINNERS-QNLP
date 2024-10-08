@@ -33,3 +33,8 @@ These tasks, though simple by traditional NLP standards, present significant cha
 TBD
 **<h2>Installation and Setup (TBD)</h2>**
 TBD
+
+**<h2>References<h2>**
+<ol>
+  <li>https://github.com/CQCL/qnlp_lorenz_etal_2021_resources/tree/main</li>
+</ol>
