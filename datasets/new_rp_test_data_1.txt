@@ -1,38 +1,29 @@
-1 scientist_N that_RPRON experiment_N prove_V
-1 artist_N that_RPRON gallery_N feature_V
-1 company_N that_RPRON employee_N lead_V
-1 engineer_N that_RPRON project_N design_V
-1 musician_N that_RPRON concert_N headline_V
-1 team_N that_RPRON coach_N train_V
-1 author_N that_RPRON book_N publish_V
-1 software_N that_RPRON developer_N write_V
-1 mountain_N that_RPRON climber_N ascend_V
-1 researcher_N that_RPRON data_N analyze_V
-1 doctor_N that_RPRON patient_N treat_V
-1 chef_N that_RPRON restaurant_N own_V
-1 leader_N that_RPRON organization_N guide_V
-1 entrepreneur_N that_RPRON business_N start_V
-1 astronaut_N that_RPRON mission_N complete_V
-1 athlete_N that_RPRON championship_N win_V
-1 traveler_N that_RPRON journey_N document_V
-1 architect_N that_RPRON building_N design_V
-1 film_N that_RPRON director_N create_V
-1 pilot_N that_RPRON airplane_N fly_V
-0 scientist_N that_RPRON discover_V unicorn_N
-0 athlete_N that_RPRON win_V every_ADJ race_N
-0 artist_N that_RPRON paint_V the_ADJ moon_N
-0 company_N that_RPRON launch_V spaceship_N
-0 chef_N that_RPRON cook_V invisible_ADJ food_N
-0 musician_N that_RPRON play_V on_ADP the_ADJ sun_N
-0 doctor_N that_RPRON heal_V immortality_N
-0 explorer_N that_RPRON travel_V to_ADP Mars_N in_ADP day_N
-0 researcher_N that_RPRON build_V robot_N with_ADP sand_N
-0 pilot_N that_RPRON fly_V house_N across_ADP ocean_N
-0 architect_N that_RPRON construct_V cloud_N
-0 athlete_N that_RPRON lift_V mountain_N in_ADP gym_N
-0 author_N that_RPRON write_V ten_ADJ books_N in_ADP hour_N
-0 entrepreneur_N that_RPRON sell_V dreams_N in_ADP market_N
-0 engineer_N that_RPRON invent_V time_ADJ machine_N
-0 software_N that_RPRON code_V itself_PRON automatically_ADV
-0 leader_N that_RPRON rule_V all_ADJ nations_N
-0 professor_N that_RPRON teach_V animal_N to_ADP speak_V
+1 organization_N that_RPRON team_N lead_V
+1 player_N that_RPRON pitcher_N face_V
+1 person_N that_RPRON teacher_N teach_V
+1 device_N that_RPRON astronomer_N use_V
+1 material_N that_RPRON water_N have_V
+1 document_N that_RPRON government_N sell_V
+1 room_N that_RPRON train_N feature_V
+1 quality_N that_RPRON vehicle_N increase_V
+1 mammal_N that_RPRON police_N have_V
+1 activity_N that_RPRON festival_N feature_V
+1 building_N that_RPRON monk_N build_V
+1 player_N that_RPRON team_N win_V
+1 organization_N that_RPRON fleet_N destroy_V
+1 document_N that_RPRON student_N submit_V
+1 material_N that_RPRON police_N use_V
+1 vehicle_N that_RPRON ship_N have_V
+1 material_N that_RPRON excavation_N remove_V
+0 player_N that_RPRON run_N hit_V
+0 scientist_N that_RPRON species_N discover_V
+0 vehicle_N that_RPRON horse_N replace_V
+0 phenomenon_N that_RPRON island_N hit_V
+0 organization_N that_RPRON team_N destroy_V
+0 building_N that_RPRON sailor_N attract_V
+0 vehicle_N that_RPRON vessel_N destroy_V
+0 scientist_N that_RPRON star_N discover_V
+0 quality_N that_RPRON election_N win_V
+0 room_N that_RPRON ship_N sink_V
+0 device_N that_RPRON time_N show_V
+0 mammal_N that_RPRON ship_N attack_V
