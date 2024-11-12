@@ -29,6 +29,21 @@ For our experiments, we use two small datasets:
 </ol>
 
 These tasks, though simple by traditional NLP standards, present significant challenges for current quantum computers due to their limited computational power.
+
+To improve on the work done by the authors of "QNLP in Practice: Running Compositional Models of Meaning on a Quantum Computer" we propose three solutions:
+1) Improve the learning algorithm used to find the best parameters of the circuits (currently SPSA)
+2) Create an ansatz that represents sentences better than the current IQP layers + Euler parameterisations
+3) Introduce a more inclusive grammar to symbolize more complex sentences in English
+
+For our first approach we have tried a tested three algorithms: an optimized version of SPSA with dynamic hyperparameters, a genetic algorithm, and a ADAM optimizer. The optimized SPSA and ADAM achieve convergence faster than the previous SPSA. The following are our results:
+--INSERT GRAPHS and STATS HERE--
+
+Our second approach involves implementing an ansatz proposed by Nikhil Khatri in his thesis, Experimental Comparison of Ans¨atze for Quantum Natural Language Processing. There are three types of ansatzes: a Sim14, Sim15, and IQPlayer ansatz.
+--INSERT GRAPHS--
+
+Our third approach involves representing a more complex dataset with an improved grammar.
+--TODO: this approach doesn't work yet--
+
 **<h2>Key Takeaways from Our Work (TBD)</h2>**
 TBD
 **<h2>Installation and Setup (TBD)</h2>**
